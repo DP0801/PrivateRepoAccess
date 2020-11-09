@@ -1,0 +1,9 @@
+# ignore node/grunt dependency directories
+packages/
+.vs/
+PrivateRepoAccessAPI/bin
+PrivateRepoAccessAPI/Properties
+PrivateRepoAccessAPILib/bin
+PrivateRepoAccessAPILib/obj
+bin/
+obj/
